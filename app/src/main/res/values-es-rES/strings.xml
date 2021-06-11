@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculador de distancia a IP</string>
+    <string name="welcomeMessage">Bienvenido a la calculadora de distancia de IP, simplemente escriba la IP que desea saber a que distancia está de su posición actual para empezar:</string>
+    <string name="consultar">Consultar</string>
+    <string name="ipError">IP invalida, por favor, escriba una IPV4 valida</string>
+    <string name="noResult">No ha sido posible localizar la ip introducida</string>
+    <string name="welcome">¡Bienvenido</string>
+    <string name="descriptionSignout">Botón para cerrar sesión</string>
+    <string name="seeyousoon">¡Hasta pronto!</string>
+    <string name="history">Tus Busquedas</string>
+    <string name="Result">Resultados:</string>
+</resources>

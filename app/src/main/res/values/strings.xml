@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">DistanceToIPCalculator</string>
+    <string name="title_activity_query">QueryActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="welcomeMessage">Welcome to IP Distance Calculator, just write the ip you want to know how far is from your current position and let\'s go:</string>
+    <string name="consultar">Query</string>
+    <string name="ip" translatable="false">ip</string>
+    <string name="ipError">Invalid IP, please, write a valid IPV4</string>
+    <string name="noResult">It is not possible to locate IP</string>
+    <string name="welcome">Welcome</string>
+    <string name="descriptionSignout">Sign out button</string>
+    <string name="seeyousoon">see you soon!</string>
+    <string name="history">Your searches</string>
+    <string name="Result">Results:</string>
+</resources>
