@@ -112,6 +112,7 @@ public class MainActivity extends AppCompatActivity {
                         QueryActivity.class);
 
                 String ipString = ip.getText().toString();
+                //Validamos la ip antes de hacer ninguna petición:
                 if(validateip(ipString)){
                     Gson gson = new Gson();
                     intent.putExtra(EXTRA_MESSAGE, ipString);
@@ -133,6 +134,7 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
+    //Función de validacion de IPs
     private String queryEmail (String email){
         return email.replace('.','_');
     }
